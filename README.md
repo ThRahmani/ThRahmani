@@ -1,5 +1,5 @@
-- 👋 Hi, I’m taha from asia
-- 👀 I’m interested in AI, networking and everything about computer systems
+- 👋 Hi, I’m taha 
+- 👀 I’m interested in AI, Statistics and everything about Computer Systems
 - 🌱 I’m currently learning pogramming in python and algorithm
 
 <!---
